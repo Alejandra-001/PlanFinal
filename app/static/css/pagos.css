@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgba(202, 202, 202, 0.15)   
+}
+
+.navbar{
+    background-color:rgba(59, 54, 54, 0.347) 
+}
+
+.containerGeneral {
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    background-color: white;
+}
+
+.campos{
+    padding: 12px 0px 12px 0px;
+}
+
